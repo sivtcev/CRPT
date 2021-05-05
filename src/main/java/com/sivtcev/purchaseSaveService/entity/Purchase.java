@@ -1,6 +1,6 @@
-package com.sivtcev.crpttesttask1.entity;
+package com.sivtcev.purchaseSaveService.entity;
 
-import com.sivtcev.crpttesttask1.api.request.PurchaseRequest;
+import com.sivtcev.purchaseSaveService.api.request.PurchaseRequest;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

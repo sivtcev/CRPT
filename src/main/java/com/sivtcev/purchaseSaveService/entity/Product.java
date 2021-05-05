@@ -1,4 +1,4 @@
-package com.sivtcev.crpttesttask1.entity;
+package com.sivtcev.purchaseSaveService.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

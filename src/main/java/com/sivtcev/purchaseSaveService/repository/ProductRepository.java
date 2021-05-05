@@ -1,6 +1,6 @@
-package com.sivtcev.crpttesttask1.repository;
+package com.sivtcev.purchaseSaveService.repository;
 
-import com.sivtcev.crpttesttask1.entity.Product;
+import com.sivtcev.purchaseSaveService.entity.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface ProductRepository extends MongoRepository<Product, String> {

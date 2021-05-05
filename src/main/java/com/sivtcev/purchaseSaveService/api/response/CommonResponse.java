@@ -1,4 +1,4 @@
-package com.sivtcev.crpttesttask1.api.response;
+package com.sivtcev.purchaseSaveService.api.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

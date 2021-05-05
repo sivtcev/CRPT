@@ -1,11 +1,11 @@
-package com.sivtcev.crpttesttask1.service;
+package com.sivtcev.purchaseSaveService.service;
 
-import com.sivtcev.crpttesttask1.api.request.PurchaseRequest;
-import com.sivtcev.crpttesttask1.api.response.CommonResponse;
-import com.sivtcev.crpttesttask1.entity.Product;
-import com.sivtcev.crpttesttask1.entity.Purchase;
-import com.sivtcev.crpttesttask1.repository.ProductRepository;
-import com.sivtcev.crpttesttask1.repository.PurchaseRepository;
+import com.sivtcev.purchaseSaveService.api.request.PurchaseRequest;
+import com.sivtcev.purchaseSaveService.api.response.CommonResponse;
+import com.sivtcev.purchaseSaveService.entity.Product;
+import com.sivtcev.purchaseSaveService.entity.Purchase;
+import com.sivtcev.purchaseSaveService.repository.ProductRepository;
+import com.sivtcev.purchaseSaveService.repository.PurchaseRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

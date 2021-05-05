@@ -1,9 +1,9 @@
-package com.sivtcev.crpttesttask1.changelog;
+package com.sivtcev.purchaseSaveService.changelog;
 
 import com.github.cloudyrock.mongock.ChangeLog;
 import com.github.cloudyrock.mongock.ChangeSet;
-import com.sivtcev.crpttesttask1.entity.Product;
-import com.sivtcev.crpttesttask1.repository.ProductRepository;
+import com.sivtcev.purchaseSaveService.entity.Product;
+import com.sivtcev.purchaseSaveService.repository.ProductRepository;
 
 @ChangeLog
 public class DatabaseChangelog {

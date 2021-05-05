@@ -1,8 +1,8 @@
-package com.sivtcev.crpttesttask1.controller;
+package com.sivtcev.purchaseSaveService.controller;
 
-import com.sivtcev.crpttesttask1.api.request.PurchaseRequest;
-import com.sivtcev.crpttesttask1.api.response.CommonResponse;
-import com.sivtcev.crpttesttask1.service.PurchaseService;
+import com.sivtcev.purchaseSaveService.api.request.PurchaseRequest;
+import com.sivtcev.purchaseSaveService.api.response.CommonResponse;
+import com.sivtcev.purchaseSaveService.service.PurchaseService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

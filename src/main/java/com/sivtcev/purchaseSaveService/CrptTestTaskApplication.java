@@ -1,4 +1,4 @@
-package com.sivtcev.crpttesttask1;
+package com.sivtcev.purchaseSaveService;
 
 import com.github.cloudyrock.spring.v5.EnableMongock;
 import org.springframework.boot.SpringApplication;

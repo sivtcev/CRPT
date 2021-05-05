@@ -8,4 +8,4 @@ spring:
 mongock:
   runner-type: "InitializingBean"
   change-logs-scan-package:
-    - com.sivtcev.crpttesttask1.changelog
+    - com.sivtcev.purchaseSaveService.changelog
