@@ -5,3 +5,7 @@ spring:
       database: document_db
       port: 27017
       host: localhost
+mongock:
+  runner-type: "InitializingBean"
+  change-logs-scan-package:
+    - com.sivtcev.crpttesttask1.changelog

@@ -1,4 +1,4 @@
-package com.sivtcev.crpttesttask;
+package com.sivtcev.crpttesttask1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
